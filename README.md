@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @JuanmaBiocon
-- 👀 I’m interested in developent
+## Welcom to my GitHub
+-  👋 Hi, I’m @JuanmaBiocon
+- 👀 I’m interested in networks, software and hardware
 - 🌱 I’m currently learning all I can
 - 📫 How to reach me juanma.raez@bcbiocon.es
 
